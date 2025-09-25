@@ -1,0 +1,14 @@
+/home/Coder/Documentos/CJC#/HealthClinic/bin/Debug/net8.0/HealthClinic
+/home/Coder/Documentos/CJC#/HealthClinic/bin/Debug/net8.0/HealthClinic.deps.json
+/home/Coder/Documentos/CJC#/HealthClinic/bin/Debug/net8.0/HealthClinic.runtimeconfig.json
+/home/Coder/Documentos/CJC#/HealthClinic/bin/Debug/net8.0/HealthClinic.dll
+/home/Coder/Documentos/CJC#/HealthClinic/bin/Debug/net8.0/HealthClinic.pdb
+/home/Coder/Documentos/CJC#/HealthClinic/obj/Debug/net8.0/HealthClinic.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Documentos/CJC#/HealthClinic/obj/Debug/net8.0/HealthClinic.AssemblyInfoInputs.cache
+/home/Coder/Documentos/CJC#/HealthClinic/obj/Debug/net8.0/HealthClinic.AssemblyInfo.cs
+/home/Coder/Documentos/CJC#/HealthClinic/obj/Debug/net8.0/HealthClinic.csproj.CoreCompileInputs.cache
+/home/Coder/Documentos/CJC#/HealthClinic/obj/Debug/net8.0/HealthClinic.dll
+/home/Coder/Documentos/CJC#/HealthClinic/obj/Debug/net8.0/refint/HealthClinic.dll
+/home/Coder/Documentos/CJC#/HealthClinic/obj/Debug/net8.0/HealthClinic.pdb
+/home/Coder/Documentos/CJC#/HealthClinic/obj/Debug/net8.0/HealthClinic.genruntimeconfig.cache
+/home/Coder/Documentos/CJC#/HealthClinic/obj/Debug/net8.0/ref/HealthClinic.dll
